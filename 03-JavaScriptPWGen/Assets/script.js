@@ -15,12 +15,12 @@ function getPasswordOptions() {
     return;
   }
 
-  if (length < 10) {
+  if (length < 8) {
   alert("Input not valid must be at least 10 characters");
   return;
   }
 
-  if (length > 100){
+  if (length > 128){
   alert("input not valid must be less than 100 characters")
   return;
   }

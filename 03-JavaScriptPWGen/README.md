@@ -4,7 +4,18 @@
 ## GitHub Repo
 Link: https://github.com/JGilb28-7/03-JavaScriptPWGen.git
 
-![recording](Assets/Password Generator - Google Chrome 2020-10-10 23-15-51.mp4)
+
+The application for week three password generation homework completes the random password return based on the length input and the selections for charatcter.
+
+User's input is validated to meet client-specified requirements:
+Password length (8-128 characters)
+
+Must select at least one character type (lowercase, uppercase, numeric, or special characters
 
 I used the Master and the basecode as a refernce point that was provided
-used let instead of var 
+
+used let instead of var
+
+![image](Assets/Password_Generator.png)
+
+ 
